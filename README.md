@@ -7,11 +7,11 @@
 - Nginx
 
 ## Require
-- Install Vagrant 
+- Install Vagrant
 
 ## Run
 - Vagrant Up
 `vagrant up`
 
-- Reloaf Ansible
+- Reload Ansible
 `vagrant provision`
